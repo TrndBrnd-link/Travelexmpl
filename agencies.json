@@ -1,0 +1,9 @@
+[
+  { "id": "ag-mansour", "name_ar": "مكتب المنصور للسفريات", "city_ar": "بغداد", "rating": 4.9, "reviews": 1284, "verified": true, "whatsapp": "9647801112233", "response_time_ar": "يرد خلال دقائق" },
+  { "id": "ag-karrada", "name_ar": "الكرادة للسياحة والسفر", "city_ar": "بغداد", "rating": 4.7, "reviews": 842, "verified": true, "whatsapp": "9647801223344", "response_time_ar": "يرد خلال ساعة" },
+  { "id": "ag-erbil-gate", "name_ar": "بوابة أربيل للسفر", "city_ar": "أربيل", "rating": 4.8, "reviews": 967, "verified": true, "whatsapp": "9647501334455", "response_time_ar": "يرد خلال دقائق" },
+  { "id": "ag-basra-nile", "name_ar": "شط العرب للسياحة", "city_ar": "البصرة", "rating": 4.5, "reviews": 411, "verified": false, "whatsapp": "9647701445566", "response_time_ar": "يرد خلال ساعتين" },
+  { "id": "ag-najaf-safar", "name_ar": "سفر النجف الدولي", "city_ar": "النجف", "rating": 4.6, "reviews": 553, "verified": true, "whatsapp": "9647801556677", "response_time_ar": "يرد خلال ساعة" },
+  { "id": "ag-golden-way", "name_ar": "الطريق الذهبي للسفريات", "city_ar": "بغداد", "rating": 4.9, "reviews": 2031, "verified": true, "whatsapp": "9647901667788", "response_time_ar": "يرد خلال دقائق" },
+  { "id": "ag-sulaimani-star", "name_ar": "نجمة السليمانية للسفر", "city_ar": "السليمانية", "rating": 4.4, "reviews": 298, "verified": false, "whatsapp": "9647501778899", "response_time_ar": "يرد خلال ٣ ساعات" }
+]

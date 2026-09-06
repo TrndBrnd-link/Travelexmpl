@@ -1,0 +1,11 @@
+[
+  { "id": "IA", "name_ar": "الخطوط الجوية العراقية", "code": "IA", "badge_color": "#0E3B3E", "logo": "assets/airlines/ia.svg" },
+  { "id": "IF", "name_ar": "فلاي بغداد", "code": "IF", "badge_color": "#D8342A", "logo": "assets/airlines/if.svg" },
+  { "id": "E9", "name_ar": "فلاي أربيل", "code": "E9", "badge_color": "#1E6F5C", "logo": "assets/airlines/e9.svg" },
+  { "id": "QR", "name_ar": "الخطوط القطرية", "code": "QR", "badge_color": "#5A1A34", "logo": "assets/airlines/qr.svg" },
+  { "id": "TK", "name_ar": "الخطوط التركية", "code": "TK", "badge_color": "#C8102E", "logo": "assets/airlines/tk.svg" },
+  { "id": "FZ", "name_ar": "فلاي دبي", "code": "FZ", "badge_color": "#E4572E", "logo": "assets/airlines/fz.svg" },
+  { "id": "ME", "name_ar": "طيران الشرق الأوسط", "code": "ME", "badge_color": "#00693E", "logo": "assets/airlines/me.svg" },
+  { "id": "RJ", "name_ar": "الملكية الأردنية", "code": "RJ", "badge_color": "#7A1F2B", "logo": "assets/airlines/rj.svg" },
+  { "id": "MS", "name_ar": "مصر للطيران", "code": "MS", "badge_color": "#003DA5", "logo": "assets/airlines/ms.svg" }
+]

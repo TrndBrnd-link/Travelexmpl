@@ -1,0 +1,17 @@
+[
+  { "code": "BGW", "name_ar": "بغداد", "name_en": "Baghdad", "country_ar": "العراق", "type": "origin", "image": "assets/destinations/baghdad.svg" },
+  { "code": "EBL", "name_ar": "أربيل", "name_en": "Erbil", "country_ar": "العراق", "type": "origin", "image": "assets/destinations/erbil.svg" },
+  { "code": "BSR", "name_ar": "البصرة", "name_en": "Basra", "country_ar": "العراق", "type": "origin", "image": "assets/destinations/basra.svg" },
+  { "code": "NJF", "name_ar": "النجف", "name_en": "Najaf", "country_ar": "العراق", "type": "origin", "image": "assets/destinations/najaf.svg" },
+  { "code": "ISU", "name_ar": "السليمانية", "name_en": "Sulaymaniyah", "country_ar": "العراق", "type": "origin", "image": "assets/destinations/sulaymaniyah.svg" },
+
+  { "code": "IST", "name_ar": "إسطنبول", "name_en": "Istanbul", "country_ar": "تركيا", "type": "destination", "image": "assets/destinations/istanbul.svg", "trending": true },
+  { "code": "DXB", "name_ar": "دبي", "name_en": "Dubai", "country_ar": "الإمارات", "type": "destination", "image": "assets/destinations/dubai.svg", "trending": true },
+  { "code": "SHJ", "name_ar": "الشارقة", "name_en": "Sharjah", "country_ar": "الإمارات", "type": "destination", "image": "assets/destinations/sharjah.svg" },
+  { "code": "JED", "name_ar": "جدة", "name_en": "Jeddah", "country_ar": "السعودية", "type": "destination", "image": "assets/destinations/jeddah.svg" },
+  { "code": "AMM", "name_ar": "عمّان", "name_en": "Amman", "country_ar": "الأردن", "type": "destination", "image": "assets/destinations/amman.svg", "trending": true },
+  { "code": "BEY", "name_ar": "بيروت", "name_en": "Beirut", "country_ar": "لبنان", "type": "destination", "image": "assets/destinations/beirut.svg" },
+  { "code": "DOH", "name_ar": "الدوحة", "name_en": "Doha", "country_ar": "قطر", "type": "destination", "image": "assets/destinations/doha.svg" },
+  { "code": "CAI", "name_ar": "القاهرة", "name_en": "Cairo", "country_ar": "مصر", "type": "destination", "image": "assets/destinations/cairo.svg" },
+  { "code": "AYT", "name_ar": "أنطاليا", "name_en": "Antalya", "country_ar": "تركيا", "type": "destination", "image": "assets/destinations/antalya.svg", "trending": true }
+]

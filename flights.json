@@ -1,0 +1,160 @@
+[
+  {
+    "id": "FL-1001", "airline_id": "IA", "from": "BGW", "to": "IST", "date": "2026-09-12",
+    "departure_time": "08:15", "arrival_time": "11:05", "duration_minutes": 170, "stops": 0, "cabin_class": "economy",
+    "offers": [
+      { "agency_id": "ag-mansour", "price": 385000, "currency": "IQD", "seats_left": 6 },
+      { "agency_id": "ag-golden-way", "price": 379000, "currency": "IQD", "seats_left": 2 },
+      { "agency_id": "ag-karrada", "price": 399000, "currency": "IQD", "seats_left": 9 }
+    ]
+  },
+  {
+    "id": "FL-1002", "airline_id": "TK", "from": "BGW", "to": "IST", "date": "2026-09-12",
+    "departure_time": "14:40", "arrival_time": "17:35", "duration_minutes": 175, "stops": 0, "cabin_class": "business",
+    "offers": [
+      { "agency_id": "ag-mansour", "price": 940000, "currency": "IQD", "seats_left": 3 },
+      { "agency_id": "ag-golden-way", "price": 915000, "currency": "IQD", "seats_left": 1 }
+    ]
+  },
+  {
+    "id": "FL-1003", "airline_id": "FZ", "from": "BGW", "to": "DXB", "date": "2026-09-12",
+    "departure_time": "06:30", "arrival_time": "09:10", "duration_minutes": 100, "stops": 0, "cabin_class": "economy",
+    "offers": [
+      { "agency_id": "ag-golden-way", "price": 310000, "currency": "IQD", "seats_left": 11 },
+      { "agency_id": "ag-karrada", "price": 325000, "currency": "IQD", "seats_left": 4 }
+    ]
+  },
+  {
+    "id": "FL-1004", "airline_id": "IA", "from": "BGW", "to": "DXB", "date": "2026-09-13",
+    "departure_time": "19:20", "arrival_time": "22:00", "duration_minutes": 100, "stops": 0, "cabin_class": "economy",
+    "offers": [
+      { "agency_id": "ag-mansour", "price": 298000, "currency": "IQD", "seats_left": 3 },
+      { "agency_id": "ag-golden-way", "price": 305000, "currency": "IQD", "seats_left": 7 }
+    ]
+  },
+  {
+    "id": "FL-1005", "airline_id": "MS", "from": "BGW", "to": "CAI", "date": "2026-09-14",
+    "departure_time": "10:05", "arrival_time": "12:40", "duration_minutes": 155, "stops": 0, "cabin_class": "economy",
+    "offers": [
+      { "agency_id": "ag-karrada", "price": 415000, "currency": "IQD", "seats_left": 5 },
+      { "agency_id": "ag-mansour", "price": 402000, "currency": "IQD", "seats_left": 2 }
+    ]
+  },
+  {
+    "id": "FL-1006", "airline_id": "RJ", "from": "BGW", "to": "AMM", "date": "2026-09-12",
+    "departure_time": "07:00", "arrival_time": "09:00", "duration_minutes": 120, "stops": 0, "cabin_class": "economy",
+    "offers": [
+      { "agency_id": "ag-golden-way", "price": 275000, "currency": "IQD", "seats_left": 14 },
+      { "agency_id": "ag-mansour", "price": 289000, "currency": "IQD", "seats_left": 6 },
+      { "agency_id": "ag-najaf-safar", "price": 281000, "currency": "IQD", "seats_left": 8 }
+    ]
+  },
+  {
+    "id": "FL-1007", "airline_id": "ME", "from": "BGW", "to": "BEY", "date": "2026-09-15",
+    "departure_time": "16:10", "arrival_time": "18:20", "duration_minutes": 130, "stops": 0, "cabin_class": "economy",
+    "offers": [
+      { "agency_id": "ag-karrada", "price": 340000, "currency": "IQD", "seats_left": 4 },
+      { "agency_id": "ag-golden-way", "price": 332000, "currency": "IQD", "seats_left": 1 }
+    ]
+  },
+  {
+    "id": "FL-1008", "airline_id": "QR", "from": "BGW", "to": "DOH", "date": "2026-09-13",
+    "departure_time": "05:45", "arrival_time": "08:00", "duration_minutes": 135, "stops": 0, "cabin_class": "economy",
+    "offers": [
+      { "agency_id": "ag-mansour", "price": 355000, "currency": "IQD", "seats_left": 9 },
+      { "agency_id": "ag-golden-way", "price": 349000, "currency": "IQD", "seats_left": 3 }
+    ]
+  },
+  {
+    "id": "FL-1009", "airline_id": "IF", "from": "BGW", "to": "JED", "date": "2026-09-14",
+    "departure_time": "12:25", "arrival_time": "15:10", "duration_minutes": 165, "stops": 0, "cabin_class": "economy",
+    "offers": [
+      { "agency_id": "ag-golden-way", "price": 360000, "currency": "IQD", "seats_left": 7 },
+      { "agency_id": "ag-karrada", "price": 372000, "currency": "IQD", "seats_left": 2 }
+    ]
+  },
+  {
+    "id": "FL-1010", "airline_id": "E9", "from": "EBL", "to": "IST", "date": "2026-09-12",
+    "departure_time": "09:50", "arrival_time": "12:10", "duration_minutes": 140, "stops": 0, "cabin_class": "economy",
+    "offers": [
+      { "agency_id": "ag-erbil-gate", "price": 355000, "currency": "IQD", "seats_left": 12 },
+      { "agency_id": "ag-sulaimani-star", "price": 368000, "currency": "IQD", "seats_left": 5 }
+    ]
+  },
+  {
+    "id": "FL-1011", "airline_id": "TK", "from": "EBL", "to": "AYT", "date": "2026-09-16",
+    "departure_time": "13:15", "arrival_time": "16:00", "duration_minutes": 165, "stops": 0, "cabin_class": "economy",
+    "offers": [
+      { "agency_id": "ag-erbil-gate", "price": 410000, "currency": "IQD", "seats_left": 3 },
+      { "agency_id": "ag-golden-way", "price": 398000, "currency": "IQD", "seats_left": 6 }
+    ]
+  },
+  {
+    "id": "FL-1012", "airline_id": "FZ", "from": "EBL", "to": "DXB", "date": "2026-09-13",
+    "departure_time": "22:00", "arrival_time": "01:20", "duration_minutes": 140, "stops": 0, "cabin_class": "economy",
+    "offers": [
+      { "agency_id": "ag-erbil-gate", "price": 330000, "currency": "IQD", "seats_left": 10 },
+      { "agency_id": "ag-sulaimani-star", "price": 341000, "currency": "IQD", "seats_left": 4 }
+    ]
+  },
+  {
+    "id": "FL-1013", "airline_id": "RJ", "from": "EBL", "to": "AMM", "date": "2026-09-15",
+    "departure_time": "08:30", "arrival_time": "10:40", "duration_minutes": 130, "stops": 0, "cabin_class": "economy",
+    "offers": [
+      { "agency_id": "ag-erbil-gate", "price": 296000, "currency": "IQD", "seats_left": 8 }
+    ]
+  },
+  {
+    "id": "FL-1014", "airline_id": "IA", "from": "BSR", "to": "JED", "date": "2026-09-14",
+    "departure_time": "04:40", "arrival_time": "07:15", "duration_minutes": 155, "stops": 0, "cabin_class": "economy",
+    "offers": [
+      { "agency_id": "ag-basra-nile", "price": 388000, "currency": "IQD", "seats_left": 6 },
+      { "agency_id": "ag-mansour", "price": 375000, "currency": "IQD", "seats_left": 2 }
+    ]
+  },
+  {
+    "id": "FL-1015", "airline_id": "FZ", "from": "BSR", "to": "DXB", "date": "2026-09-12",
+    "departure_time": "11:10", "arrival_time": "13:35", "duration_minutes": 145, "stops": 0, "cabin_class": "economy",
+    "offers": [
+      { "agency_id": "ag-basra-nile", "price": 305000, "currency": "IQD", "seats_left": 13 }
+    ]
+  },
+  {
+    "id": "FL-1016", "airline_id": "IF", "from": "NJF", "to": "JED", "date": "2026-09-13",
+    "departure_time": "06:00", "arrival_time": "08:35", "duration_minutes": 155, "stops": 0, "cabin_class": "economy",
+    "offers": [
+      { "agency_id": "ag-najaf-safar", "price": 352000, "currency": "IQD", "seats_left": 9 },
+      { "agency_id": "ag-karrada", "price": 361000, "currency": "IQD", "seats_left": 1 }
+    ]
+  },
+  {
+    "id": "FL-1017", "airline_id": "ME", "from": "NJF", "to": "BEY", "date": "2026-09-17",
+    "departure_time": "15:45", "arrival_time": "18:00", "duration_minutes": 135, "stops": 0, "cabin_class": "economy",
+    "offers": [
+      { "agency_id": "ag-najaf-safar", "price": 344000, "currency": "IQD", "seats_left": 5 }
+    ]
+  },
+  {
+    "id": "FL-1018", "airline_id": "TK", "from": "ISU", "to": "IST", "date": "2026-09-12",
+    "departure_time": "10:20", "arrival_time": "12:35", "duration_minutes": 135, "stops": 0, "cabin_class": "economy",
+    "offers": [
+      { "agency_id": "ag-sulaimani-star", "price": 349000, "currency": "IQD", "seats_left": 7 },
+      { "agency_id": "ag-erbil-gate", "price": 356000, "currency": "IQD", "seats_left": 3 }
+    ]
+  },
+  {
+    "id": "FL-1019", "airline_id": "IA", "from": "BGW", "to": "IST", "date": "2026-09-19",
+    "departure_time": "23:10", "arrival_time": "02:00", "duration_minutes": 170, "stops": 1, "cabin_class": "economy",
+    "offers": [
+      { "agency_id": "ag-mansour", "price": 302000, "currency": "IQD", "seats_left": 16 },
+      { "agency_id": "ag-golden-way", "price": 298000, "currency": "IQD", "seats_left": 10 }
+    ]
+  },
+  {
+    "id": "FL-1020", "airline_id": "QR", "from": "EBL", "to": "DOH", "date": "2026-09-16",
+    "departure_time": "17:30", "arrival_time": "19:50", "duration_minutes": 140, "stops": 0, "cabin_class": "economy",
+    "offers": [
+      { "agency_id": "ag-erbil-gate", "price": 362000, "currency": "IQD", "seats_left": 4 }
+    ]
+  }
+]
